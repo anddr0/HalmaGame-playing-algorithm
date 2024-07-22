@@ -2,6 +2,8 @@
 
 This repository contains a Python project for simulating and managing the state of a board game, specifically Halma. The project includes various scripts to initialize the game board, manage game states, and provide utility functions for the game logic.
 
+![image](https://github.com/user-attachments/assets/d6e2c5f4-29d5-4d90-bb2b-ca2555cb0cf5)
+
 ## Project Overview
 
 This project is focused on simulating and managing the Halma game state and making decisions with alpha-beta (min-max) algorithm to perform best moves. Halma is a strategy board game involving movement of pieces across a board, and this project provides a framework to handle game initialization, state management, and game rules.
